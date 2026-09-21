@@ -44,11 +44,11 @@
 
 ### 💻 Stack Tecnológico
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-F25F0C?style=for-the-badge&logo=moodle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -61,5 +61,5 @@
 
 ### 📬 Conéctate Conmigo
 
-- 📧 **Correo**: `tu-email@dominio.com`
+- 📧 **Correo**: `manuel.moreno1@meduca.gob.pa`
 - 💼 **LinkedIn**: [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
